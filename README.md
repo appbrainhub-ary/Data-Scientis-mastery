@@ -2,7 +2,7 @@
 
 **Semua Yang Berkaitan Dengan Data Science Atau Mechine Learning**
 
-#⚠️ Kebijakan & Regulasi :
+#Kebijakan & Regulasi ⚠️  :
 
 **"Data Science ini bertujuan untuk mengembangkan sebuah sistem kecerdasan buatan yang dapat membantu dalam proses pekerjaan apapun. Sistem ini akan menggunakan algoritma yang telah diatur dan disesuaikan dengan regulasi kecerdasan buatan yang berlaku. Selain itu, proyek ini akan memastikan bahwa data yang digunakan dalam pengembangan sistem ini telah diperoleh secara legal dan sesuai dengan regulasi privasi yang berlaku.
 
