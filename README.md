@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/gandalfmuda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+A.I.;Web+Apps+Developer;Research+Data&font=Orbitron&size=35&duration=3500&pause=500&center=true&width=500&height=50&color=00CED1"></a>
 
-![](https://github.com/gandalfmuda/Your_GIF_Name.gif)
+![](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/40e56914-a872-4a62-b570-2c9f556ed3e7_777x437.gif)
 
 # Selamat Datang Fresh Graduate / Senior Graduate 🖐️
 	
