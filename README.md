@@ -1,4 +1,9 @@
-# Orang Cerdas Pasti Terbiasa Membaca Dulu Sebelum Menyimpulkan Asumsinya **👇**
+<p align="center">
+<a href="https://github.com/gandalfmuda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist;Web+Apps+Developer;Research+Data&font=Roboto&size=35&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+
+# Selamat Datang Fresh Graduate / Senior Graduate 🖐️
+	
+
 
 
 **Direktori Ini Yang Berkaitan Dengan Data Science Atau Mechine Learning**
