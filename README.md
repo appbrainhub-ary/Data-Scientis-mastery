@@ -1,5 +1,5 @@
+- [x] Dengan ini saya nyatakan Patuh terhadap Kebijakan Regulasi Artificial Intelligence Standar Indonesia.
 <p align="center">
-
 <td align="center" width="50">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
