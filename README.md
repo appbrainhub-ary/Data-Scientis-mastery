@@ -12,14 +12,14 @@
 ![](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/40e56914-a872-4a62-b570-2c9f556ed3e7_777x437.gif)
 
 
-
-
 # Selamat Datang Fresh Graduate / Senior Graduate 🖐️
 	
 
-
-
 **Direktori Ini Yang Berkaitan Dengan Data Science Atau Mechine Learning**
+
+**Favorite Workspace :**
+1. [Car Detector](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Multi%20Deteksi%20Mobil/Depan_Mobil_Detection.ipynb)
+2. [Deteksi Kecocokan Gambar](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Deteksi%20Kecocokan%20Objek/A_I_Mendeteksi_Objek_menggunakan_kecocokan_Template.ipynb)
 
 
 # Kebijakan & Regulasi :
