@@ -17,6 +17,18 @@
 
 **Direktori Ini Yang Berkaitan Dengan Data Science Atau Mechine Learning**
 
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+
 **Favorite Workspace :**
 1. [Obserfasi Satelit](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/Observasi%20Satelite%20SATRIA-1%20Simulasi/Satelite_Satria_1_Simulation_By_ARI.ipynb)
 2. [Deteksi & Hitung Jumlah Mobil](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Multi%20Deteksi%20Mobil/Depan_Mobil_Detection.ipynb)
