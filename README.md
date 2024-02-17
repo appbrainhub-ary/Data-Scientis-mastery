@@ -30,6 +30,7 @@ This work is licensed under a
 
 
 **Favorite Workspace :**
+1. [Sistem Deteksi Kapal Laut](https://github.com/gandalfmuda/Data-Scientis-mastery/tree/main/A%20Ships%20Detect%20A.I.)
 1. [Obserfasi Satelit](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/Observasi%20Satelite%20SATRIA-1%20Simulasi/Satelite_Satria_1_Simulation_By_ARI.ipynb)
 2. [Deteksi & Hitung Jumlah Mobil](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Multi%20Deteksi%20Mobil/Depan_Mobil_Detection.ipynb)
 4. [Deteksi Kecocokan Gambar](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Deteksi%20Kecocokan%20Objek/A_I_Mendeteksi_Objek_menggunakan_kecocokan_Template.ipynb)
