@@ -3,9 +3,13 @@
 <td align="center" width="50">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+	      <a href="#macropower-tech">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxL-uSxvtQDrUovGgQFTmlB263oycEN8IKHA4PUAfkGbllhYvYW9bzJIc&s=10" alt="icon" width="50" height="50" />
       </a>
-      <br>Sistem Pakar Python
+      <br>Sistem Pakar Python & Matlab
     </td>
+    <td align="center" width="50">
+    
  
 <a href="https://github.com/gandalfmuda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+A.I.;Machine+Learning;Research+Data&font=Orbitron&size=35&duration=3500&pause=500&center=true&width=500&height=50&color=00CED1"></a>
 
