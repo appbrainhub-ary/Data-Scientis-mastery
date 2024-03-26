@@ -11,7 +11,7 @@
     <td align="center" width="50">
     
  
-<a href="https://github.com/gandalfmuda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+A.I.;Machine+Learning;Research+Data&font=Orbitron&size=35&duration=3500&pause=500&center=true&width=500&height=50&color=00CED1"></a>
+<a href="https://github.com/gandalfmuda"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+A.I.;Machine+Learning;Data+Research;Human+Research;Cloning+life&font=Orbitron&size=35&duration=3500&pause=500&center=true&width=500&height=50&color=00CED1"></a>
 
 ![](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/40e56914-a872-4a62-b570-2c9f556ed3e7_777x437.gif)
 
