@@ -32,14 +32,6 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-
-**Favorite Workspace :**
-1. [Sistem Deteksi Kapal Laut](https://github.com/gandalfmuda/Data-Scientis-mastery/tree/main/A%20Ships%20Detect%20A.I.)
-1. [Obserfasi Satelit](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/Observasi%20Satelite%20SATRIA-1%20Simulasi/Satelite_Satria_1_Simulation_By_ARI.ipynb)
-2. [Deteksi & Hitung Jumlah Mobil](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Multi%20Deteksi%20Mobil/Depan_Mobil_Detection.ipynb)
-4. [Deteksi Kecocokan Gambar](https://github.com/gandalfmuda/Data-Scientis-mastery/blob/main/A.I.%20Deteksi%20Kecocokan%20Objek/A_I_Mendeteksi_Objek_menggunakan_kecocokan_Template.ipynb)
-
-
 # Kebijakan & Regulasi :
 
 **Data Science ini bertujuan untuk mengembangkan sebuah sistem kecerdasan buatan yang dapat membantu dalam proses pekerjaan apapun. Sistem ini akan menggunakan algoritma yang telah diatur dan disesuaikan dengan regulasi kecerdasan buatan yang berlaku. Selain itu, proyek ini akan memastikan bahwa data yang digunakan dalam pengembangan sistem ini telah diperoleh secara legal dan sesuai dengan regulasi privasi yang berlaku.**
